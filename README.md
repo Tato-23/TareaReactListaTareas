@@ -1,6 +1,10 @@
 # Lista de Tareas — Aplicación React
 
-Aplicación de gestión de tareas desarrollada con React 19 y Vite como proyecto del Bloque 2. Permite agregar, completar, eliminar y filtrar tareas, con persistencia en `localStorage` y modo oscuro automático.
+Aplicación web de gestión de tareas (To-Do List) desarrollada con React 19 y Vite. Permite agregar, completar, eliminar y filtrar tareas (todas, pendientes o completadas), con persistencia de datos mediante localStorage.
+
+La aplicación está construida con una arquitectura modular basada en componentes reutilizables, utilizando useReducer y React Context para el manejo de estado global. Además, incorpora custom hooks para reutilizar lógica y carga perezosa (React.lazy y Suspense) para optimizar el rendimiento.
+
+Incluye pruebas unitarias y de integración para garantizar la calidad y correcto funcionamiento del sistema.
 
 ---
 
