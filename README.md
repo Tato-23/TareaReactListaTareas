@@ -17,7 +17,6 @@ Aplicación de gestión de tareas desarrollada con React 19 y Vite como proyecto
 npm install       # instalar dependencias
 npm run dev       # servidor de desarrollo en http://localhost:5173
 npm run test:run  # ejecutar todas las pruebas
-npm run build     # compilar para producción
 
 ## Estructura del proyecto
 

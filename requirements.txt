@@ -1,0 +1,24 @@
+# ============================================================
+#  Lista de Tareas — Requisitos y comandos de ejecución
+# ============================================================
+
+# ------------------------------------------------------------
+# PASOS PARA EJECUTAR EL PROYECTO
+# ------------------------------------------------------------
+
+# 1. Entrar a la carpeta del proyecto
+#    cd ListaTareas
+
+# 2. Instalar dependencias (solo la primera vez o tras cambios en package.json)
+npm install
+
+# 3. Iniciar el servidor de desarrollo  →  http://localhost:5173
+npm run dev
+
+# ------------------------------------------------------------
+# COMANDOS ADICIONALES
+# ------------------------------------------------------------
+
+# Ejecutar pruebas una sola vez y mostrar resultados
+npm run test:run
+
